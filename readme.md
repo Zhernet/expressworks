@@ -89,6 +89,7 @@ middleware from the `body-parser` module.
 ```js
 var bodyparser = require('body-parser')
 app.use(bodyparser.urlencoded({extended: false}))
+```
 
 
 ## 5. Stylish CSS <a name="stylishcss"></a>
