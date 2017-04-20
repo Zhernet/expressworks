@@ -91,7 +91,7 @@ var bodyparser = require('body-parser')
 app.use(bodyparser.urlencoded({extended: false}))
 
 
-## 5. Stylish CSS <a name="stylishscc"></a>
+## 5. Stylish CSS <a name="stylishcss"></a>
 HTML without styles is boring so this exercise will teach you how to use Stylus with Express on the fly.
 
 Style the HTML from the "STATIC" exercise using Stylus middleware.
